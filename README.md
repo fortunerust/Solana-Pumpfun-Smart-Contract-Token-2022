@@ -25,4 +25,4 @@ https://solscan.io/tx/5iHdBwV2d9RsqmawRuUSRiJfb5k22ooZTpCJhigBiXpYrbep7pK4rYKyq2
 ### Contact Information
 - Telegram: https://t.me/DevCutup
 - Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/januscutup
+- Twitter: https://x.com/devcutup
